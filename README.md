@@ -10,14 +10,14 @@ __Blogposts__
 
 * [What scientists must know about hardware to write fast code](https://biojulia.net/post/hardware/)
 * [On the performance and design of BioSequences compared to the Seq language](https://biojulia.net/post/seq-lang/)
-* [Upcoming - An introduction to writing machine-generated parsers with Automa.jl]
+* [An introduction to writing machine-generated parsers with Automa.jl](https://biojulia.net/post/automa1/)
 
 __Packages__
 
 * [Vamb](https://github.com/RasmussenLab/vamb) - variational autoencoders for metagenomic binning
 * [StackCollections.jl](https://github.com/jakobnissen/StackCollections.jl) - optimized, fixed-bit collections in Julia
-* [MinHash.jl](https://github.com/jakobnissen/MinHash.jl) - efficient minhashing in Julia.
+* [MinHash.jl](https://github.com/jakobnissen/MinHash.jl) - efficient, generic minhashing.
 * [LibDeflate.jl](https://github.com/jakobnissen/LibDeflate.jl) - bindings to the fast de/compression library libdeflate
 * [CodecBGZF](https://github.com/jakobnissen/CodecBGZF.jl) - read and write BGZF files
-* [In progress - [Probably.jl](https://github.com/jakobnissen/Probably.jl) - probabilistic data structures in Julia]
+* [In progress - [Probably.jl](https://github.com/jakobnissen/Probably.jl) - generic, probabilistic data structures]
 * [In progress - [Kash.jl](https://github.com/jakobnissen/Kash.jl) - efficient *k*-mer minhashing in Julia]
