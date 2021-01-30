@@ -18,7 +18,8 @@ __Packages__
 * [StackCollections.jl](https://github.com/jakobnissen/StackCollections.jl) - optimized, fixed-bit collections in Julia
 * [MinHash.jl](https://github.com/jakobnissen/MinHash.jl) - efficient, generic minhashing.
 * [LibDeflate.jl](https://github.com/jakobnissen/LibDeflate.jl) - bindings to the fast de/compression library libdeflate
-* [CodecBGZF](https://github.com/jakobnissen/CodecBGZF.jl) - read and write BGZF files
+* [CodecBGZF.jl](https://github.com/jakobnissen/CodecBGZF.jl) - read and write BGZF files
+* [ErrorTypes.jl](https://github.com/jakobnissen/ErrorTypes.jl) - Rust-like recoverable error types in Juia.
 * [ScanByte.jl](https://github.com/jakobnissen/ScanByte.jl) - find a byte in a chunk of memory - fast.
 * [In progress - [Probably.jl](https://github.com/jakobnissen/Probably.jl) - generic, probabilistic data structures]
 * [In progress - [Kash.jl](https://github.com/jakobnissen/Kash.jl) - efficient *k*-mer minhashing in Julia]
