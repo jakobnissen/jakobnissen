@@ -11,6 +11,7 @@ __Blogposts__
 * [What scientists must know about hardware to write fast code](https://biojulia.net/post/hardware/)
 * [On the performance and design of BioSequences compared to the Seq language](https://biojulia.net/post/seq-lang/)
 * [An introduction to writing machine-generated parsers with Automa.jl](https://biojulia.net/post/automa1/)
+* [What's bad about Julia?](https://viralinstruction.com/posts/badjulia/)
 
 __Packages__
 
