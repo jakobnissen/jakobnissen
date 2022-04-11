@@ -2,7 +2,7 @@
 
 I'm Jakob, a biologist-turned-programmer, happy in my role as a research software engineer.
 
-I've done my PhD in [metagenomic binning](https://github.com/RasmussenLab/vamb), and now do a post doc at [Statens Serum Institut](https://github.com/ssi-dk) (Danish CDC) researching the zoonotic and pandemic potential of influenza virus. Biologically, my interests are in phylogenetics, molecular evolution and microbial genomics. On the computer science side, I'm a Julia, Rust and Python enthusiast, contributing to [BioJulia](https://biojulia.net/) and [Julia](https://github.com/JuliaLang/julia). I particularly enjoy writing optimized and generic software packages for bioinformatics.
+I work as an assistant professor at [CPR, Copenhagen University](https://www.cpr.ku.dk/) researching metagenomics with particular interest in virus- and plasmid metagenomics. Biologically, my interests are in phylogenetics, molecular evolution and sub-genomic replicons. On the computer science side, I'm a Julia, Rust and Python enthusiast, contributing to [BioJulia](https://biojulia.net/) and [Julia](https://github.com/JuliaLang/julia). I particularly enjoy writing optimized and generic software packages for bioinformatics.
 
 ### Highlighted work:
 
