@@ -12,6 +12,7 @@ __Blogposts__
 * [On the performance and design of BioSequences compared to the Seq language](https://biojulia.net/post/seq-lang/)
 * [An introduction to writing machine-generated parsers with Automa.jl](https://biojulia.net/post/automa1/)
 * [What's bad about Julia?](https://viralinstruction.com/posts/badjulia/)
+* [How to optimise Julia code: A practical guide](https://viralinstruction.com/posts/optimise)
 
 __Packages__
 
