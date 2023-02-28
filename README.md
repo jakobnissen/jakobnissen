@@ -12,6 +12,7 @@ __Blogposts__
 * [On the performance and design of BioSequences compared to the Seq language](https://biojulia.net/post/seq-lang/)
 * [An introduction to writing machine-generated parsers with Automa.jl](https://biojulia.net/post/automa1/)
 * [What's bad about Julia?](https://viralinstruction.com/posts/badjulia/)
+* [What's great about Julia?](https://viralinstruction.com/posts/goodjulia)
 * [How to optimise Julia code: A practical guide](https://viralinstruction.com/posts/optimise)
 
 __Packages__
@@ -24,3 +25,10 @@ __Packages__
 * [LibDeflate.jl](https://github.com/jakobnissen/LibDeflate.jl) - bindings to the fast de/compression library libdeflate
 * [CodecBGZF.jl](https://github.com/jakobnissen/CodecBGZF.jl) - read and write BGZF files
 * [ErrorTypes.jl](https://github.com/jakobnissen/ErrorTypes.jl) - Rust-like recoverable error types in Julia.
+
+__Maintainer__
+
+* [BioSymbols.jl](https://github.com/BioJulia/BioSymbols.jl)
+* [BioSequences.jl](https://github.com/BioJulia/BioSequences.jl)
+* [FASTX.jl](https://github.com/BioJulia/FASTX.jl)
+* [Automa.jl](https://github.com/BioJulia/Automa.jl)
