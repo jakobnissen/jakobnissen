@@ -6,28 +6,22 @@ I work as an assistant professor at [CPR, Copenhagen University](https://www.cpr
 
 ### Highlighted work:
 
-__Blogposts__
-
-* [What scientists must know about hardware to write fast code](https://biojulia.net/post/hardware/)
-* [On the performance and design of BioSequences compared to the Seq language](https://biojulia.net/post/seq-lang/)
-* [An introduction to writing machine-generated parsers with Automa.jl](https://biojulia.net/post/automa1/)
-* [What's bad about Julia?](https://viralinstruction.com/posts/badjulia/)
-* [What's great about Julia?](https://viralinstruction.com/posts/goodjulia)
-* [How to optimise Julia code: A practical guide](https://viralinstruction.com/posts/optimise)
-
 __Selected repositories__
 
 * [Vamb](https://github.com/RasmussenLab/vamb) - variational autoencoders for metagenomic binning
-* [Beginner's Python for Biological Scientists [WIP]](https://github.com/RasmussenLab/python_course)
-* [ScanByte.jl](https://github.com/jakobnissen/ScanByte.jl) - find a byte in a chunk of memory - fast.
+* [Course material for introductory Python course](https://github.com/RasmussenLab/python_course)
 * [Alen](https://github.com/jakobnissen/alen) - simple terminal alignment viewer.
+* [BinBencherBackend.jl](https://github.com/jakobnissen/BinBencherBackend.jl) - metagenomic binning benchmarking and analysis software
 * [LibDeflate.jl](https://github.com/jakobnissen/LibDeflate.jl) - bindings to the fast de/compression library libdeflate
 * [StackCollections.jl](https://github.com/jakobnissen/StackCollections.jl) - optimized, fixed-bit collections in Julia
 * [MinHash.jl](https://github.com/jakobnissen/MinHash.jl) - efficient, generic minhashing.
 
-__Maintainer__
+__Repositories I maintain__
 
 * [BioSymbols.jl](https://github.com/BioJulia/BioSymbols.jl)
 * [BioSequences.jl](https://github.com/BioJulia/BioSequences.jl)
 * [FASTX.jl](https://github.com/BioJulia/FASTX.jl)
 * [Automa.jl](https://github.com/BioJulia/Automa.jl)
+* WIP: [MemoryViews.jl](https://github.com/BioJulia/MemoryViews.jl)
+* WIP: [XAMAuxData.jl](https://github.com/BioJulia/XAMAuxData.jl)
+* WIP: [PairwiseMappingFormat.jl](https://github.com/BioJulia/PairwiseMappingFormat.jl)
