@@ -2,8 +2,8 @@
 
 I'm Jakob, a biologist-turned-programmer, happy in my role as a research software engineer.
 
-I work as an assistant professor at [CBMR, Copenhagen University](https://cbmr.ku.dk/) researching metagenomics with particular interest in virus- and plasmid metagenomics.
-Biologically, my interests are in phylogenetics, molecular evolution and sub-genomic replicons.
+I work as a software developer at [Statens Serum Institut](https://en.ssi.dk/).
+Biologically, my interests are phylogenetics, molecular evolution, and viral and bacterial genomics.
 On the computer science side, I'm a Julia, Rust and Python enthusiast, contributing to [BioJulia](https://biojulia.dev/) and [Julia](https://github.com/JuliaLang/julia)
 I particularly enjoy writing optimized and generic software packages for bioinformatics.
 
@@ -24,5 +24,6 @@ __Other repos I maintain__
 * [BioSequences.jl](https://github.com/BioJulia/BioSequences.jl)
 * [FASTX.jl](https://github.com/BioJulia/FASTX.jl)
 * [Automa.jl](https://github.com/BioJulia/Automa.jl)
+* [BufferIO.jl](https://github.com/BioJulia/BufferIO.jl)
 * [XAMAuxData.jl](https://github.com/BioJulia/XAMAuxData.jl)
 * [PairwiseMappingFormat.jl](https://github.com/BioJulia/PairwiseMappingFormat.jl)
