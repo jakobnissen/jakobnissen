@@ -16,14 +16,19 @@ __Selected repositories__
 * [BinBencher.jl](https://github.com/jakobnissen/BinBencherBackend.jl) - metagenomic binning benchmarking and analysis software
 * [LibDeflate.jl](https://github.com/jakobnissen/LibDeflate.jl) - bindings to the fast de/compression library libdeflate
 * [MemoryViews.jl](https://github.com/BioJulia/MemoryViews.jl) - low-level view into Memory in Julia
-* [MinHash.jl](https://github.com/jakobnissen/MinHash.jl) - efficient, generic minhashing.
 
 __Other repos I maintain__
 
-* [BioSymbols.jl](https://github.com/BioJulia/BioSymbols.jl)
-* [BioSequences.jl](https://github.com/BioJulia/BioSequences.jl)
-* [FASTX.jl](https://github.com/BioJulia/FASTX.jl)
 * [Automa.jl](https://github.com/BioJulia/Automa.jl)
+* [BGZFLib.jl](https://github.com/BioJulia/BGZFLib.jl)
+* [BioSequences.jl](https://github.com/BioJulia/BioSequences.jl)
+* [BioSymbols.jl](https://github.com/BioJulia/BioSymbols.jl)
 * [BufferIO.jl](https://github.com/BioJulia/BufferIO.jl)
-* [XAMAuxData.jl](https://github.com/BioJulia/XAMAuxData.jl)
+* [CIGARStrings.jl](https://github.com/BioJulia/CIGARStrings.jl)
+* [FASTX.jl](https://github.com/BioJulia/FASTX.jl)
+* [Kmers.jl](https://github.com/BioJulia/Kmers.jl)
+* [MinHash.jl](https://github.com/jakobnissen/MinHash.jl)
 * [PairwiseMappingFormat.jl](https://github.com/BioJulia/PairwiseMappingFormat.jl)
+* [StackCollections.jl](https://github.com/jakobnissen/StackCollections.jl)
+* [XAMAuxData.jl](https://github.com/BioJulia/XAMAuxData.jl)
+
